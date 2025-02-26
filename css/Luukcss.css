@@ -1,0 +1,14 @@
+@charset "UTF-8";
+.Luuk-bered {
+	color: #FF0000;
+}
+
+.Luuk-begreen {
+	color: #0AFF0C;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;	
+}
+
+.mybg {
+	background-image: url(../images/papierwallpaper.jpg);
+	background-repeat: repeat;
+}
