@@ -1,0 +1,37 @@
+@charset "UTF-8";
+.mybox {
+    width: 120px;
+    height: 120px;
+    background-color: #05CDDB;
+    padding-left: 0px;
+    padding-top: 36px;
+    text-align: center;
+    margin-left: 399px;
+    margin-top: 99px;
+}
+.mybox2 {
+    width: 120px;
+    height: 120px;
+    background-color: #05B0DD;
+    text-align: center;
+    padding-top: 31px;
+}
+
+.fontdiner-swanky-regular {
+  font-family: "Fontdiner Swanky", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.container-fluid {
+	
+  background-color: #E408FA;
+	
+}
+
+.colorluuka { background-color: #E408FA;}
+.colorluukb { background-color: #0BDBFA;}
+.colorluukc { background-color: #08FA3C;}
+.colorluukd { background-color: #F9FA0B;}
+
